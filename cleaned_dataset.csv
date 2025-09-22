@@ -1,0 +1,11 @@
+customerid,name,age,gender,country,joindate,purchaseamount
+1,Alice,25,male,india,2021-01-05,100.5
+2,Bob,29,female,india,2021-02-05,200.0
+2,Bob,29,female,india,2021-02-05,200.0
+3,Charlie,30,male,usa,2021-03-15,0.0
+4,David,22,female,usa,2021-04-15,150.0
+5,Eva,29,,unknown,2021-05-20,300.0
+,Frank,40,male,united kingdom,1900-01-01,400.0
+7,Unknown,35,male,united kingdom,2021-06-25,0.0
+8,Henry,29,female,usa,2021-07-30,500.0
+9,Ivy,28,female,india,2021-08-30,600.0
